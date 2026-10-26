@@ -1,11 +1,8 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Pawttle",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Pawttle",
   "start_url": "/",
-  "theme_color": "#0d1330"
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#90d133"
 }
