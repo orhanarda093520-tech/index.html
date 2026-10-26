@@ -1,7 +1,8 @@
 {
   "name": "Pawttle",
   "short_name": "Pawttle",
-  "start_url": "/",
+  "start_url": "/orhanarda093520-tech/",
+  "scope": "/orhanarda093520-tech/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#90d133"
